@@ -263,10 +263,4 @@
 
     </body>
 
-        <section>
-            <p> <br /><br /><br /><br /></p>
-        </section>
-
-        <footer>
-            © 2020 - Chapman Wise
-        </footer>
+    
